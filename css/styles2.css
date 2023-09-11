@@ -25,6 +25,8 @@
   width: 100%;
   max-width: 1300px;
   margin: 0 auto;
+  margin-top: 60px;
+  margin-left: -220px;
   padding: 0 50px;
 }
 
